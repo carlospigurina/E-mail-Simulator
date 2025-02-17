@@ -26,12 +26,9 @@
 <!-- DEMO -->
 <h3 align="center"> Try the Demo by yourself ! ⬇️ </h3>
 <br>
-<!-- DEMO -->
-<h3 align="center"> Try the Demo by yourself ! ⬇️ </h3>
-<br>
 <div align="center">
   <a href="https://carlospigurina.github.io/E-mail-Simulator/" target="_blank">
-    <img src="https://img.shields.io/badge/E-mail Simulator-333333?style=for-the-badge&logo=github&logoColor=white" style="text-decoration:none;"/>
+    <img src="https://img.shields.io/badge/E-mail Simulator -333333?style=for-the-badge&logo=github&logoColor=white" style="text-decoration:none;"/>
   </a>
 </div>
 <!-- DEMO -->
